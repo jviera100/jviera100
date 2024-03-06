@@ -1,72 +1,70 @@
-<h1 align="center">$("¡Hola!") <👋=></👋_> {'me llamo'} [Jonathan Viera]</h1>
+<h1 align="center">$("¡Hi!") <👋=></👋_> {'I am'} [Jonathan Viera]</h1>
 <p align="center">
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" />
 </p>
 <p align="center">
-  ¡Bienvenido a mi perfil de GitHub! Soy un Development Full Stack JavaScript, apasionado por la tecnologia, con experiencia en proyectos en JavaScript, integrando html, css, bootstrap, jquery y github, Psql y pgAdmin Postgre Sql y compartir conocimientos con la comunidad.
+  ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology, with experience in JavaScript projects, integrating html, css, bootstrap, jquery and github, Psql and pgAdmin Postgre Sql and sharing knowledge with the community.
 </p>
-🚀 Proyectos Destacados
+🚀 Featured projects.
 
-🚀[desafio-evaluado-17-base-de-datos-relacionales](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales): Desafio Sql en terminal powershell y pdAdmin Postgre.
+🚀[desafio-evaluado-17-base-de-datos-relacionales](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales): Sql Challenge in Powershell Terminal and pdAdmin Postgre.
 
 🚀[desafio-evaluado-16-prueba-programacion-avanzada-en-javascript](https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript): 
-Prueba final de modulo 4. Fui mucho mas alla dando un gran valor agregado, integrando todo el contenido hasta la fecha de los primeros cuatro modulos, separando en 4 paginas html, contenidos como api hero, api pokemon, videos, animales, separe todo el codigo JavaScript por html asociado y por contenido aplicado y en Css hize lo mismo separando todo el codigo de estilos por html asociado y por contenido, asi hay mas orden, se puede reutilizar el codigo, se puede manejar mejor los errores, me desafie a mi mismo, usando mucho codigo, en un trabajo amplio, con varios archivos, que ordenadamente puedo presentar. El proyecto trata de una tabla de registro, que mediante un boton se agregan los datos, se traspasan a una tabla a la izquierda mostrando imagen y sonido del animal, ademas al hacer click sobre imagen se abre ventana modal con datos del animal. Integrando Html-Css-bootstrap-Jquery-Js-Api-Ajax-Api-json-canvas-videos-promesa-tabla dinamica-tabla de registro-manejo de errores robusto-funcion autoejecutable-callback-modulos. Prueba final de modulo 3, en desafio latam full stack g64, aqui integre todo lo aprendido hasta el momento, en el cual cumpli los requerimientos, fui mas alla, e integre la opcion de ver los pdf con un boton y con un enlace en el navbar, los botones del navbar se fijaron, y agregue otro llamado de api pokemon en el navbar,ademas al inspeccionar pagina web o ver en pantalla peque se ve el boton de hamburguesa con animacion de rotacion y alternando con imagen x. la imagen super hero tiene animacion toggle fade y slide al pasar el mouse por encima y hacer click, se hizo un formulario para buscar hero por numero con api-ajax y con grafico canvas. Si doy buscar y no ingreso un numero se ejecuta random, es decir me muestra un heroe al azar, agregue un evento de click en titulo formulario para que cambie de color . busque mensajes motivadores de heroes y puse un carusel bootstrap. mas abajo veran una imagen del capitan america que tiene una animacion de giro al hacer click (evento) sobre la imagen y vuelve a su posicion original. A la derecha icono fontawesome dos botones tooltip de bootstrap con evento click alerta. Agregue tarjetas con grill de bootstrap con evento click ocultar y mostra texto al hacer click en imagenes de tarjetas. Agregue un formulario con boton con alerta. el footer tiene iconos font awesome con link a redes sociales que abren en pagina web nueva. Adicionalmente agregue comentarios explicativos de los codigos, para que sea entendible su funcionamiento.
+Final test of module 4. I went much further giving great added value, integrating all the content to date of the first four modules, separating into 4 html pages, content such as api hero, api pokemon, videos, animals, I separated all the JavaScript code by associated html and by applied content and in CSS I did the same, separating all the style code by associated html and by content, this way there is more order, the code can be reused, errors can be handled better, I challenged myself same, using a lot of code, in a large work, with several files, which I can present in an orderly manner. The project is about a registration table, in which the data is added using a button and transferred to a table on the left showing the image and sound of the animal. Additionally, clicking on the image opens a modal window with the animal's data. Integrating Html-Css-bootstrap-Jquery-Js-Api-Ajax-Api-json-canvas-videos-promise-dynamic table-log table-robust error handling-self-executing function-callback-modules. Final test of module 3, in the latam full stack g64 challenge, here I integrated everything I had learned so far, in which I met the requirements, I went further, and integrated the option to view the pdf with a button and with a link in the navbar, the navbar buttons were fixed, and I added another pokemon api call in the navbar, also when inspecting the web page or viewing the small screen you see the hamburger button with rotation animation and alternating with image x. The super hero image has a toggle fade and slide animation when you hover the mouse over it and click, a form was made to search for hero by number with api-ajax and a canvas graphic. If I search and do not enter a number, it executes random, that is, it shows me a random hero, add a click event to the form title so that it changes color. I looked for motivational messages from heroes and put a bootstrap carousel. Below you will see an image of Captain America that has a spinning animation when you click (event) on the image and returns to its original position. On the right fontawesome icon two bootstrap tooltip buttons with alert click event. Add cards with bootstrap grid with click event hide and show text when clicking on card images. Add a form with an alert button. The footer has awesome font icons with links to social networks that open on a new website. Additionally, add explanatory comments to the codes, so that their operation is understandable.
 
 
 
-🛠️ Habilidades y Tecnologías
+🛠️ Skills and Technologies
 
-🛠️Lenguajes de Programación:
+🛠️Programming languages:
 
-JavaScript: Un lenguaje de programación ampliamente utilizado para desarrollar aplicaciones web interactivas.
-HTML: Lenguaje de marcado utilizado para crear la estructura de las páginas web.
-CSS: Lenguaje de estilo utilizado para dar estilo y diseño a las páginas web.
+JavaScript: A widely used programming language for developing interactive web applications.
+HTML: Markup language used to create the structure of web pages.
+CSS: Styling language used to style and design web pages.
 
-🛠️Frameworks y Bibliotecas:
+🛠️Frameworks y Libraries:
 
-jQuery: Biblioteca de JavaScript que simplifica la manipulación del DOM y el manejo de eventos.
-React.js: Biblioteca de JavaScript para construir interfaces de usuario interactivas y componentes reutilizables.
+jQuery: JavaScript library that simplifies DOM manipulation and event handling.
+React.js: JavaScript library to build interactive user interfaces and reusable components.
 
-🛠️Herramientas de Desarrollo:
+🛠️Development tools:
 
-Visual Studio Code: Editor de código fuente altamente personalizable y potente, con soporte para varios lenguajes de programación.
+Visual Studio Code: Highly customizable and powerful source code editor, with support for several programming languages.
 
-🛠️Recursos y Herramientas de Diseño
+🛠️Design Resources and Tools
 
-Google Fonts: Biblioteca de fuentes web gratuita y fácil de usar para proyectos de diseño web.
-Font Awesome: Biblioteca de iconos vectoriales y herramientas para agregar iconografía visualmente atractiva a los proyectos web.
-Bootstrap: Framework de diseño front-end de código abierto que facilita la creación de sitios web y aplicaciones web receptivos y móviles.
-CSS Tricks - Guía de Flexbox: Recurso que proporciona una guía completa sobre el uso de Flexbox en CSS para el diseño flexible de diseños web.
-Undraw: Colección de ilustraciones vectoriales personalizables para dar vida a tus proyectos.
-Recursos y Comunidad
-GitHub: Plataforma de desarrollo colaborativo de software que ofrece control de versiones y funciones de gestión de proyectos para el desarrollo de software.
-Toptal - Gitignore: Generador de archivos .gitignore personalizados para proyectos de desarrollo basados en el lenguaje y los frameworks utilizados.
-EmojiPedia: Recurso para encontrar y copiar emojis para usar en tus proyectos web y de comunicación.
-Gist: Plataforma para compartir fragmentos de código, notas y archivos entre desarrolladores.
-Discord: Plataforma de comunicación diseñada para comunidades de jugadores y desarrolladores.
+Google Fonts: Free and easy-to-use web font library for web design projects.
+Font Awesome: Vector icon library and tools for adding visually appealing iconography to web projects.
+Bootstrap: Open source front-end design framework that makes it easy to build responsive and mobile websites and web applications.
+CSS Tricks - Flexbox Guide: Resource that provides a complete guide on using Flexbox in CSS for flexible layout of web designs.
+Undraw: Collection of customizable vector illustrations to bring your projects to life.
+Resources and Community
+GitHub: Collaborative software development platform that offers version control and project management functions for software development.
+Toptal - Gitignore: Custom .gitignore file generator for development projects based on the language and frameworks used.
+EmojiPedia: Resource to find and copy emojis to use in your web and communication projects.
+Gist: Platform to share code snippets, notes and files between developers.
+Discord: Communication platform designed for communities of players and developers.
 
-🛠️Consulta Office
-Microsoft Office: Suite de aplicaciones de productividad que incluye Word (procesador de texto), Excel (hoja de cálculo) y Access (gestor de base de datos relacional).
+🛠️Consultation Office
+Microsoft Office: Suite of productivity applications that includes Word (word processor), Excel (spreadsheet), and Access (relational database manager).
 
-📊 Estadísticas de GitHub
+📊 GitHub Statistics
+<!-- GitHub statistics using the GitHub API -->
 
-<!-- Agrega tus estadísticas de GitHub utilizando la API de GitHub -->
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jviera100&show_icons=true&theme=radical)
-
-
-🎓 Estudios y Certificaciones
-
-[Auditoria](Enlace al Título o Institución): Titulo Contador Auditor Duoc Uc
-[Contador general mencion legislacion tributaria](Enlace al Título o Institución): Titulo Contador general mencion legislacion tributaria Duoc Uc
-[Conductor Profesional](Enlace a la Certificación): Licencia A3.
-[Development Full Stack JavaScript](Enlace a la Certificación): Realizando el curso actualmente.
-[Basic English](Enlace a la Certificación): estudiando con inmersion total en diferentes aplicaciones y grupos de conversacion.
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=jviera100&show_icons=true&theme=radical)
 
 
-📫 Contacto y Redes Sociales
+🎓 Studies and Certifications
 
-Correo Electrónico: jony.alejandro.viear@gmail.com
+[Audit](Enlace al Título o Institución): Title Accountant Auditor Duoc Uc
+[General accountant mention tax legislation](Enlace al Título o Institución): Title General Accountant with mention in tax legislation Duoc Uc
+[Professional Driver](Enlace a la Certificación): A3 license.
+[Development Full Stack JavaScript](Enlace a la Certificación): Currently taking the course.
+[Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
+
+📫 Contact and Social Networks
+
+Email: jony.alejandro.viear@gmail.com
 GitHub: [github](https://github.com/jviera100)
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-viera-46326567/)
 Twitter: [twitter](https://twitter.com/jona668647668)
