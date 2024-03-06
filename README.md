@@ -8,29 +8,8 @@
 </p>
 🚀 Proyectos Destacados
 
-🚀[desafio-evaluado-8-prueba-1-viajes-chile]([Enlace al Repositorio](https://github.com/jviera100/desafio-evaluado-8-prueba-1-viajes-chile)): 
-El proyecto integra desde bootstrap un carusel, columas grill, tarjetas y formulario con tooltip, se integra jquery para dar efecto haciendo click tooltip da alerta, 
-cambio de color haciendo click en titulos. carusel con scroll desplazamiento automatico y manual, tarjetas que se ocultan y se muestra al hacer click, 
-el navnar tiene desplazamiento dentro de la pagina al hacer click en sus titulos, se agregaron iconos de font awesome y el footer tiene enlaces a redes sociales 
-haciendo click en iconos.
-
-
-🚀[desafio-evaluado-9-cachipun-segunda-pagina]([Enlace al Repositorio](https://github.com/jviera100/desafio-evaluado-9-cachipun-segunda-pagina)): 
-se hace una pagina principal con la descripcion del juego de cachipun contra la maquina, usando todo lo del proyecto viajes chiley se enlaza una segunda pagina web 
-al hacer click en el titulo del navbar jugar y esa segunda pagina tiene el jugo del cachipun todo con efectos de JavaScript, en el cual aparece un prompt preguntando 
-tu nombre y cuantas veces jugaras, cada vez que seleccionas una imagen, la maquina elige su imagen y te dice quien gano o si hay empate, al terminar todas las jugadas 
-que mencionaste en el prompt que jugarias te da un resumen del total ganado, el juego termina ahi, pero si quieres volver a jugar en otro momento, se agrego un boton 
-para volver a jugar, el boton esta oculto mientras juegas, solo se ve al finalizar todas tus jugadas.
-.
-
-🚀[desafio-evaluado-11-uso-de-metodos-con-arrays-y-objetos]([Enlace al Repositorio](https://github.com/jviera100/desafio-evaluado-11-uso-de-metodos-con-arrays-y-objetos)): 
-se usa iframe en html para juntar 3 html en uno solo, se usa carusel de bootstrap para dejar las imagenes del pdf del desafio, se usa css, se usa jquery en js para ocultar
-y mostrar carusel haciendo click en titulo, se crea una alerta en un tooltip y titulos cambian de color al hacer click, y usando iframe en html se ensambla o se agrega
-una segunda pagina web al html principal, mostrandolo en la parte inferior como si fuera un solo html y se usa javascript con los 6 requerimientos solicitados que estan 
-enlazados con un archivo script(es decir solo el segundo html se pidio), el primer html tiene estilo css, es un adicional para dejar una presentacion del proyecto y 
-adicionalmente con iframe en html agrego un tercer html que contiene dentro del html script que crean una tabla dinamica, con todos las consultas medicas y permite hacer 
-filtros con listas desplegables, ademas se agrega una barra de navegacion para el segundo y tercer html.
-
+🚀[desafio-evaluado-16-prueba-programacion-avanzada-en-javascript]([https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript]): 
+Prueba final de modulo 4. Fui mucho mas alla dando un gran valor agregado, integrando todo el contenido hasta la fecha de los primeros cuatro modulos, separando en 4 paginas html, contenidos como api hero, api pokemon, videos, animales, separe todo el codigo JavaScript por html asociado y por contenido aplicado y en Css hize lo mismo separando todo el codigo de estilos por html asociado y por contenido, asi hay mas orden, se puede reutilizar el codigo, se puede manejar mejor los errores, me desafie a mi mismo, usando mucho codigo, en un trabajo amplio, con varios archivos, que ordenadamente puedo presentar. El proyecto trata de una tabla de registro, que mediante un boton se agregan los datos, se traspasan a una tabla a la izquierda mostrando imagen y sonido del animal, ademas al hacer click sobre imagen se abre ventana modal con datos del animal. Integrando Html-Css-bootstrap-Jquery-Js-Api-Ajax-Api-json-canvas-videos-promesa-tabla dinamica-tabla de registro-manejo de errores robusto-funcion autoejecutable-callback-modulos. Prueba final de modulo 3, en desafio latam full stack g64, aqui integre todo lo aprendido hasta el momento, en el cual cumpli los requerimientos, fui mas alla, e integre la opcion de ver los pdf con un boton y con un enlace en el navbar, los botones del navbar se fijaron, y agregue otro llamado de api pokemon en el navbar,ademas al inspeccionar pagina web o ver en pantalla peque se ve el boton de hamburguesa con animacion de rotacion y alternando con imagen x. la imagen super hero tiene animacion toggle fade y slide al pasar el mouse por encima y hacer click, se hizo un formulario para buscar hero por numero con api-ajax y con grafico canvas. Si doy buscar y no ingreso un numero se ejecuta random, es decir me muestra un heroe al azar, agregue un evento de click en titulo formulario para que cambie de color . busque mensajes motivadores de heroes y puse un carusel bootstrap. mas abajo veran una imagen del capitan america que tiene una animacion de giro al hacer click (evento) sobre la imagen y vuelve a su posicion original. A la derecha icono fontawesome dos botones tooltip de bootstrap con evento click alerta. Agregue tarjetas con grill de bootstrap con evento click ocultar y mostra texto al hacer click en imagenes de tarjetas. Agregue un formulario con boton con alerta. el footer tiene iconos font awesome con link a redes sociales que abren en pagina web nueva. Adicionalmente agregue comentarios explicativos de los codigos, para que sea entendible su funcionamiento.
 
 🛠️ Habilidades y Tecnologías
 
