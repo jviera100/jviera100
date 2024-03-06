@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   ¡Bienvenido a mi perfil de GitHub! Soy un apasionado [por la tecnologia] con experiencia en [Development Full Stack JavaScript]. Me encanta construir
-  [proyectos en JavaScript, integrando con html, css, bootstrap, jquery y github] y compartir conocimientos con la comunidad.
+  [proyectos en JavaScript, integrando con html, css, bootstrap, jquery, sql y github] y compartir conocimientos con la comunidad.
 </p>
 🚀 Proyectos Destacados
 
