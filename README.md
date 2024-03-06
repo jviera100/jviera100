@@ -3,8 +3,7 @@
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" />
 </p>
 <p align="center">
-  ¡Bienvenido a mi perfil de GitHub! Soy un apasionado [por la tecnologia] con experiencia en [Development Full Stack JavaScript]. Me encanta construir
-  [proyectos en JavaScript, integrando con html, css, bootstrap, jquery, sql y github] y compartir conocimientos con la comunidad.
+  ¡Bienvenido a mi perfil de GitHub! Soy un Development Full Stack JavaScript, apasionado por la tecnologia, con experiencia en proyectos en JavaScript, integrando html, css, bootstrap, jquery y github, Psql y pgAdmin Postgre Sql y compartir conocimientos con la comunidad.
 </p>
 🚀 Proyectos Destacados
 
@@ -68,6 +67,7 @@ Microsoft Office: Suite de aplicaciones de productividad que incluye Word (proce
 📫 Contacto y Redes Sociales
 
 Correo Electrónico: jony.alejandro.viear@gmail.com
-GitHub: [www.tusitio.com](https://github.com/jviera100)
-LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/jonathan-viera-46326567/)https://www.linkedin.com/in/jonathan-viera-46326567/
-Twitter: [@tucuenta](https://twitter.com/jona668647668)https://twitter.com/jona668647668
+GitHub: [github](https://github.com/jviera100)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-viera-46326567/)
+Twitter: [twitter](https://twitter.com/jona668647668)
+Discord: [discord](https://discord.com/channels/@me)
