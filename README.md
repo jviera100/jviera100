@@ -3,7 +3,7 @@
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" />
 </p>
 <p align="center">
-  ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology, with experience in JavaScript projects, integrating html, css, bootstrap, jquery and github, Psql and pgAdmin Postgre Sql and sharing knowledge with the community.
+  ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology, with experience in JavaScript projects, integrating html, css, bootstrap, jquery and github, Psql, pgAdmin Postgre Sql and Dbeaver and sharing knowledge with the community.
 </p>
 🚀 Featured projects.
 
