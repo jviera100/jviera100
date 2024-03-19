@@ -19,6 +19,7 @@ Final test of module 4. I went much further giving great added value, integratin
 🛠️Programming languages:
 
 JavaScript: A widely used programming language for developing interactive web applications.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 HTML: Markup language used to create the structure of web pages.
 CSS: Styling language used to style and design web pages.
 
