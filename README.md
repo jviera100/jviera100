@@ -103,11 +103,13 @@ Final test of module 4. I went much further giving great added value, integratin
 JavaScript: A widely used programming language for developing interactive web applications.
 
 HTML: Markup language used to create the structure of web pages.
+
 CSS: Styling language used to style and design web pages.
 
 🛠️Frameworks y Libraries:
 
 jQuery: JavaScript library that simplifies DOM manipulation and event handling.
+
 React.js: JavaScript library to build interactive user interfaces and reusable components.
 
 🛠️Development tools:
@@ -117,18 +119,29 @@ Visual Studio Code: Highly customizable and powerful source code editor, with su
 🛠️Design Resources and Tools
 
 Google Fonts: Free and easy-to-use web font library for web design projects.
+
 Font Awesome: Vector icon library and tools for adding visually appealing iconography to web projects.
+
 Bootstrap: Open source front-end design framework that makes it easy to build responsive and mobile websites and web applications.
+
 CSS Tricks - Flexbox Guide: Resource that provides a complete guide on using Flexbox in CSS for flexible layout of web designs.
+
 Undraw: Collection of customizable vector illustrations to bring your projects to life.
+
 Resources and Community
+
 GitHub: Collaborative software development platform that offers version control and project management functions for software development.
+
 Toptal - Gitignore: Custom .gitignore file generator for development projects based on the language and frameworks used.
+
 EmojiPedia: Resource to find and copy emojis to use in your web and communication projects.
+
 Gist: Platform to share code snippets, notes and files between developers.
+
 Discord: Communication platform designed for communities of players and developers.
 
 🛠️Consultation Office
+
 Microsoft Office: Suite of productivity applications that includes Word (word processor), Excel (spreadsheet), and Access (relational database manager).
 
 📊 GitHub Statistics
@@ -140,15 +153,23 @@ Microsoft Office: Suite of productivity applications that includes Word (word pr
 🎓 Studies and Certifications
 
 [Audit](Enlace al Título o Institución): Title Accountant Auditor Duoc Uc
+
 [General accountant mention tax legislation](Enlace al Título o Institución): Title General Accountant with mention in tax legislation Duoc Uc
+
 [Professional Driver](Enlace a la Certificación): A3 license.
+
 [Development Full Stack JavaScript](Enlace a la Certificación): Currently taking the course.
+
 [Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
 
 📫 Contact and Social Networks
 
 Email: jony.alejandro.viear@gmail.com
+
 GitHub: [github](https://github.com/jviera100)
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-viera-46326567/)
+
 Twitter: [twitter](https://twitter.com/jona668647668)
+
 Discord: [discord](https://discord.com/channels/@me)
