@@ -92,13 +92,14 @@
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
   ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+  ![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&logoColor=white)
 
   👨🏽‍💻Web Development Cloud Storage:
 
   ![Gist](https://img.shields.io/badge/Gist-00225C?style=for-the-badge&logo=gist&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
+  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)    
   
 🚀 Featured projects.
 
