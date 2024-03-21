@@ -71,6 +71,9 @@
   👨🏽‍💻Backend Frameworks & Libraries:
   
   ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+  ![Draw.io](https://img.shields.io/badge/Draw.io-FF6F61?style=for-the-badge&logo=draw.io&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+  ![API](https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=api&logoColor=white)
 
   👨🏽‍💻Databases:
   
