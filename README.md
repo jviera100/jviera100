@@ -67,6 +67,7 @@
   👨🏽‍💻Databases:
   
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![DBeaver](https://img.shields.io/badge/DBeaver-183059?style=for-the-badge&logo=dbeaver&logoColor=white)
 
   👨🏽‍💻Frontend Frameworks:
 
