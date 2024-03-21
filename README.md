@@ -93,6 +93,7 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
   ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
   ![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&logoColor=white)
+  ![Built-in Modules](https://img.shields.io/badge/Built--in_Modules-0078d4?style=for-the-badge&logo=node.js&logoColor=white)
 
   👨🏽‍💻Web Development Cloud Storage:
 
