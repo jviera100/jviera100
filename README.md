@@ -1,4 +1,9 @@
-<h1 align="center"> :gremlin-ohno: $("¡Hi!") <👋=></👋_> {'I am'} [Jonathan Viera] :homer: </h1>
+<h1 align="center">$("¡Hi!") <👋=></👋_> {'I am'} [Jonathan Viera]</h1>
+:gremlin-ohno: 
+:homer:
+!Gremlin Oh No
+!Homer
+
 <p align="center">
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" />
 </p>
