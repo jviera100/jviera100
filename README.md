@@ -1,11 +1,4 @@
 <h1 align="center">$("¡Hi!") <👋=></👋_> {'I am'} [Jonathan Viera]</h1>
-:gremlin-ohno: 
-:homer:
-!Gremlin Oh No
-!Homer
-![Gremlin Oh No](ruta/a/gremlin-ohno.png)
-![Homer](ruta/a/Homer.png)
-
 
 <p align="center">
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" />
