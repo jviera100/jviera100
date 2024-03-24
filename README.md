@@ -6,9 +6,7 @@
 <p align="center">
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology, with experience in JavaScript projects, integrating html, css, bootstrap, jquery and github, Psql, pgAdmin Postgre Sql and Dbeaver and sharing knowledge with the community.
 </p>   
-  🛠️ Skills and Technologies
-  
-  
+  <div>🛠️ Skills and Technologies</div>
   
   👨🏽‍💻Operating Systems:
   
