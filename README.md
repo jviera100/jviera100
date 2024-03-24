@@ -118,49 +118,27 @@ Final test of module 4. I went much further giving great added value, integratin
 
 🛠️Programming languages:
 
-JavaScript: A widely used programming language for developing interactive web applications.
-
-HTML: Markup language used to create the structure of web pages.
-
-CSS: Styling language used to style and design web pages.
+HTML - CSS - JavaScript
 
 🛠️Frameworks y Libraries:
 
-jQuery: JavaScript library that simplifies DOM manipulation and event handling.
-
-React.js: JavaScript library to build interactive user interfaces and reusable components.
+jQuery
 
 🛠️Development tools:
 
-Visual Studio Code: Highly customizable and powerful source code editor, with support for several programming languages.
+Visual Studio Code
 
 🛠️Design Resources and Tools
 
-Google Fonts: Free and easy-to-use web font library for web design projects.
+Google Fonts - Font Awesome - Bootstrap - CSS Tricks - Flexbox Guide - Undraw
 
-Font Awesome: Vector icon library and tools for adding visually appealing iconography to web projects.
+👨🏽‍💻Resources and Community
 
-Bootstrap: Open source front-end design framework that makes it easy to build responsive and mobile websites and web applications.
-
-CSS Tricks - Flexbox Guide: Resource that provides a complete guide on using Flexbox in CSS for flexible layout of web designs.
-
-Undraw: Collection of customizable vector illustrations to bring your projects to life.
-
-Resources and Community
-
-GitHub: Collaborative software development platform that offers version control and project management functions for software development.
-
-Toptal - Gitignore: Custom .gitignore file generator for development projects based on the language and frameworks used.
-
-EmojiPedia: Resource to find and copy emojis to use in your web and communication projects.
-
-Gist: Platform to share code snippets, notes and files between developers.
-
-Discord: Communication platform designed for communities of players and developers.
+GitHub - Toptal - Gitignore - EmojiPedia - Gist - Discord
 
 🛠️Consultation Office
 
-Microsoft Office: Suite of productivity applications that includes Word (word processor), Excel (spreadsheet), and Access (relational database manager).
+Microsoft Office
 
 📊 GitHub Statistics
 <!-- GitHub statistics using the GitHub API -->
@@ -188,6 +166,4 @@ GitHub: [github](https://github.com/jviera100)
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-viera-46326567/)
 
-Twitter: [twitter](https://twitter.com/jona668647668)
-
-Discord: [discord](https://discord.com/channels/@me)
+Discord: [discord](https://discord.com/channels/@jonahunterx)
