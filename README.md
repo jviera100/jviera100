@@ -36,7 +36,7 @@
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-  👨🏽‍💻Messaging Platforms:
+  📫Messaging Platforms:  
 
   ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) 
   ![Twitter X](https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=twitter&logoColor=white)  
@@ -104,7 +104,7 @@
   ![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&logoColor=white)
   ![Built-in Modules](https://img.shields.io/badge/Built--in_Modules-0078d4?style=for-the-badge&logo=node.js&logoColor=white)
 
-  👨🏽‍💻Web Development Cloud Storage:
+  📫Web Development Cloud Storage:
 
   ![Gist](https://img.shields.io/badge/Gist-00225C?style=for-the-badge&logo=gist&logoColor=white)
   <a href="https://github.com/jviera100" target="_blank">
@@ -125,7 +125,6 @@ Final test of module 4. I went much further giving great added value, integratin
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=jviera100&show_icons=true&theme=radical)
 
-
 🎓 Studies and Certifications
 
 [Audit](Enlace al Título o Institución): Title Accountant Auditor Duoc Uc
@@ -137,13 +136,3 @@ Final test of module 4. I went much further giving great added value, integratin
 [Development Full Stack JavaScript](Enlace a la Certificación): Currently taking the course.
 
 [Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
-
-📫 Contact and Social Networks
-
-Email: jony.alejandro.viear@gmail.com
-
-GitHub: [github](https://github.com/jviera100)
-
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-viera-46326567/)
-
-Discord: [discord](https://discord.com/channels/@jonahunterx)
