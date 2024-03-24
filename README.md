@@ -7,8 +7,7 @@
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology, with experience in JavaScript projects, integrating html, css, bootstrap, jquery and github, Psql, pgAdmin Postgre Sql and Dbeaver and sharing knowledge with the community.
 </p>   
   <div>🛠️ Skills and Technologies</div>
-  <hr>
-  
+  <br>  
   👨🏽‍💻Operating Systems:
   
   ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)  
