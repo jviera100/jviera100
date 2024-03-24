@@ -7,6 +7,7 @@
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology, with experience in JavaScript projects, integrating html, css, bootstrap, jquery and github, Psql, pgAdmin Postgre Sql and Dbeaver and sharing knowledge with the community.
 </p>   
   <div>🛠️ Skills and Technologies</div>
+  <hr>
   
   👨🏽‍💻Operating Systems:
   
