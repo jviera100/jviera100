@@ -1,5 +1,19 @@
 {
+  "name": "jviera100",
+  "description": "<h1 align=\"center\">¡Hi!, I am Jonathan Viera👋</h1>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "i": "nodemon github_stats.js"
+  },
+  "keywords": [],
+  "author": "jonathan viera",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
   }
 }
