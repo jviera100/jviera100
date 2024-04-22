@@ -23,22 +23,8 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/logo-google-workspace.svg"> &nbsp;
- 
-
-  👨🏽‍💻Design Platforms:
-  
-   <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/canva-1.svg"> &nbsp;  
-
-  👨🏽‍💻AI Model:
-  
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/chatgpt-1.svg"> &nbsp; 
+    src="./assets/img/logo-google-workspace.svg"> &nbsp;  
+   
 
   👨🏽‍💻Developer Tools: integrated development environment (IDE):
 
@@ -53,11 +39,11 @@
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/node.svg">; 
+    src="./assets/img/node.svg"> &nbsp; 
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/git.svg">; 
+    src="./assets/img/git.svg"> &nbsp; 
 
   👨🏽‍💻Frontend Development Languages:
    
@@ -78,7 +64,7 @@
     style="margin: 10px"
     src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
 
-  👨🏽‍💻Frontend Libraries:
+  👨🏽‍💻Frontend Libraries and Tools:
 
   <img width="70px" 
     height="70px" 
@@ -99,7 +85,15 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/toptal-logo-wordmark.svg"> &nbsp; &nbsp;    
+    src="./assets/img/toptal-logo-wordmark.svg"> &nbsp; &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/canva-1.svg"> &nbsp;   
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/chatgpt-1.svg"> &nbsp;     
 
   👨🏽‍💻Databases:
   
@@ -126,11 +120,11 @@
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/github-icon-1.svg">; 
+    src="./assets/img/github-icon-1.svg"> &nbsp; 
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/neon.svg">; 
+    src="./assets/img/neon.svg"> &nbsp;
  
 =======
   <br>  
