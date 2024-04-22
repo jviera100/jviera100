@@ -9,16 +9,13 @@
   <div>🛠️ Skills and Technologies</div>
 
   <br>  
-  👨🏽‍💻Operating Systems:
+  👨🏽‍💻Operating Systems and Productivity Software:
   <br> 
   
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/microsoft-windows-11.svg"> &nbsp;  
-
-  👨🏽‍💻Productivity Software:
-  
+    src="./assets/img/microsoft-windows-11.svg"> &nbsp;   
    <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -52,7 +49,15 @@
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/visual-studio-code-1.svg"> &nbsp;  
+    src="./assets/img/visual-studio-code-1.svg"> &nbsp;
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/node.svg">; 
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/git.svg">; 
 
   👨🏽‍💻Frontend Development Languages:
    
@@ -101,35 +106,24 @@
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/postgresql.svg"> &nbsp; &nbsp;  
-<img width="70px" 
+    src="./assets/img/beaver-head.png"> &nbsp; &nbsp;
+    <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/beaver-head.png"> &nbsp; &nbsp;  
+    src="./assets/img/postgresql.svg"> &nbsp; &nbsp;  
+  
 
   👨🏽‍💻Frontend Frameworks:
 
  <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp; 
-  
-
-  👨🏽‍💻Backend Frameworks:
-  
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/node.svg">;   
+    src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp;     
  
 
   📫Web Development Cloud Storage:
-
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/git.svg">; 
-    <img width="70px" 
+  
+<img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="./assets/img/github-icon-1.svg">; 
