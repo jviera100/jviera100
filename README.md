@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 <h1 align="center">¡Hi!, I am Jonathan Viera👋</h1>
-=======
-  <h1 align="center">¡Hi!, I am Jonathan Viera👋</h1>
->>>>>>> 7ee6e99314f9796e066f90deb17935cd1a83a2af
+
 
 <p align="center">
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" />
@@ -71,15 +68,15 @@
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/html.svg"> &nbsp;
+    src="./assets/img/html.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/css.svg"> &nbsp;
+    src="./assets/img/css.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/javascript.svg"> &nbsp; &nbsp;
+    src="./assets/img/javascript.svg"> &nbsp; &nbsp;
 
   [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
@@ -114,7 +111,7 @@
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/node.svg">;
+    src="./assets/img/node.svg">;
     
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
@@ -234,7 +231,7 @@
 
 
    
->>>>>>> 7ee6e99314f9796e066f90deb17935cd1a83a2af
+
   
 🚀 Featured projects.
 
