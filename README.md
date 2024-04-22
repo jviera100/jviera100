@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="100" height="100" />
-  <img width="70px" 
-    height="70px" 
+  <img width="100px" 
+    height="100px" 
     style="margin: 10px"
     src="./assets/img/johnny-bravo-1.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
+    <img width="100px" 
+    height="100px" 
     style="margin: 10px"
     src="./assets/img/dexter.svg"> &nbsp;
 </p>
@@ -52,7 +52,7 @@
     style="margin: 10px"
     src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
 
-  👨🏽‍💻Libraries and Developer Tools:
+  👨🏽‍💻Libraries, Framekorks and Developer Tools:
 
   <img width="70px" 
     height="70px" 
@@ -101,7 +101,11 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/npm-square-red-1.svg"> &nbsp;       
+    src="./assets/img/npm-square-red-1.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp;       
 
   👨🏽‍💻Databases:
   
@@ -113,15 +117,6 @@
     height="70px" 
     style="margin: 10px"
     src="./assets/img/postgresql.svg"> &nbsp; &nbsp;  
-  
-
-  👨🏽‍💻Frontend Frameworks:
-
- <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp;     
- 
 
   📫Web Development Cloud Storage:
   
