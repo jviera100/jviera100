@@ -1,67 +1,58 @@
 <h1 align="center">¡Hi!, I am Jonathan Viera👋</h1>
 
-
 <p align="center">
-  <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" />
+  <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="100" height="100" />
 </p>
 <p align="center">
-  ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology, with experience in JavaScript projects, integrating html, css, bootstrap, jquery and github, Psql, pgAdmin Postgre Sql and Dbeaver and sharing knowledge with the community.
+  ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology and sharing knowledge with the community.
 </p>   
   <div>🛠️ Skills and Technologies</div>
-<<<<<<< HEAD
+
   <br>  
   👨🏽‍💻Operating Systems:
   <br> 
   
-  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)  
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/microsoft-windows-11.svg"> &nbsp;  
 
   👨🏽‍💻Productivity Software:
   
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-  📫Cloud Storage:
-  
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-  ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)  
-  ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+   <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/office-2.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/gmail-icon.svg"> &nbsp;
+ 
 
   👨🏽‍💻Design Platforms:
   
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-  📫Communication Platforms:
-  
-  ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
-  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-  📫Messaging Platforms:  
-
-  ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) 
-  ![Twitter X](https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=twitter&logoColor=white)  
-  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
-  ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
- <a href="https://www.linkedin.com/in/jonathan-viera-46326567/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-
+   <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/canva-1.svg"> &nbsp;  
 
   👨🏽‍💻AI Model:
   
-  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/chatgpt-1.svg"> &nbsp; 
 
   👨🏽‍💻Developer Tools: integrated development environment (IDE):
 
-  ![Scratch](https://img.shields.io/badge/Scratch-4DBE00?style=for-the-badge&logo=scratch&logoColor=white)   
-  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/scratch-logo.svg"> &nbsp; 
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/visual-studio-code-1.svg"> &nbsp;  
 
   👨🏽‍💻Frontend Development Languages:
    
@@ -77,8 +68,10 @@
     height="70px" 
     style="margin: 10px"
     src="./assets/img/javascript.svg"> &nbsp; &nbsp;
-
-  [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
 
   👨🏽‍💻Frontend Libraries:
 
