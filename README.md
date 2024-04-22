@@ -16,22 +16,7 @@
 </p>   
   <div>🛠️ Skills and Technologies</div>
 
-  <br>  
-  👨🏽‍💻Operating Systems and Productivity Software:
-  <br>   
-     
-   <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/office-2.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/logo-google-workspace.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/microsoft-windows-11.svg"> &nbsp;    
+  <br>        
 
   👨🏽‍💻Development Languages:
    
@@ -105,7 +90,19 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp;       
+    src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/office-2.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/logo-google-workspace.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/microsoft-windows-11.svg"> &nbsp;        
 
   👨🏽‍💻Databases:
   
