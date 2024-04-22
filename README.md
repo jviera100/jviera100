@@ -2,6 +2,14 @@
 
 <p align="center">
   <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="100" height="100" />
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/johnny-bravo-1.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/dexter.svg"> &nbsp;
 </p>
 <p align="center">
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology and sharing knowledge with the community.
@@ -10,12 +18,8 @@
 
   <br>  
   👨🏽‍💻Operating Systems and Productivity Software:
-  <br> 
-  
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/microsoft-windows-11.svg"> &nbsp;   
+  <br>   
+     
    <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -23,9 +27,13 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/logo-google-workspace.svg"> &nbsp;    
+    src="./assets/img/logo-google-workspace.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/microsoft-windows-11.svg"> &nbsp;    
 
-  👨🏽‍💻Frontend Development Languages:
+  👨🏽‍💻Development Languages:
    
 <img width="70px" 
     height="70px" 
@@ -44,7 +52,7 @@
     style="margin: 10px"
     src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
 
-  👨🏽‍💻Frontend Libraries and Developer Tools:
+  👨🏽‍💻Libraries and Developer Tools:
 
   <img width="70px" 
     height="70px" 
@@ -89,7 +97,11 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/git.svg"> &nbsp;      
+    src="./assets/img/git.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/npm-square-red-1.svg"> &nbsp;       
 
   👨🏽‍💻Databases:
   
