@@ -137,9 +137,7 @@
 
 🚀[desafio-evaluado-17-base-de-datos-relacionales](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales): Sql Challenge in Powershell Terminal and pdAdmin Postgre.
 
-🚀[desafio-evaluado-16-prueba-programacion-avanzada-en-javascript](https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript): 
-
-Final test integrating all learned content: HTML, CSS, Bootstrap, jQuery, JavaScript, APIs, AJAX, JSON, Canvas, videos, promises, dynamic tables, error handling, self-executing functions, callbacks, modules. Project includes registration table, modal window, PDF view, animations, form search, carousel, tooltips, social links.
+🚀[desafio-evaluado-16-prueba-programacion-avanzada-en-javascript](https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript): Final test integrating all learned content: HTML, CSS, Bootstrap, jQuery, JavaScript, APIs, AJAX, JSON, Canvas, videos, promises, dynamic tables, error handling, self-executing functions, callbacks, modules. Project includes registration table, modal window, PDF view, animations, form search, carousel, tooltips, social links.
 
 🎓 Studies and Certifications
 
