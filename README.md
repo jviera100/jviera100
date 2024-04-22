@@ -23,27 +23,7 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/logo-google-workspace.svg"> &nbsp;  
-   
-
-  👨🏽‍💻Developer Tools: integrated development environment (IDE):
-
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/scratch-logo.svg"> &nbsp; 
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/visual-studio-code-1.svg"> &nbsp;
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/node.svg"> &nbsp; 
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/git.svg"> &nbsp; 
+    src="./assets/img/logo-google-workspace.svg"> &nbsp;    
 
   👨🏽‍💻Frontend Development Languages:
    
@@ -64,17 +44,17 @@
     style="margin: 10px"
     src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
 
-  👨🏽‍💻Frontend Libraries and Tools:
+  👨🏽‍💻Frontend Libraries and Developer Tools:
 
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="./assets/img/google-fonts-2021-2.svg"> &nbsp; &nbsp; 
-  <img width="70px" 
+    <img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="./assets/img/fontawesome-1.svg"> &nbsp; &nbsp; 
-  <img width="70px" 
+    <img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="./assets/img/jquery-1.svg"> &nbsp; &nbsp; 
@@ -93,7 +73,23 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/chatgpt-1.svg"> &nbsp;     
+    src="./assets/img/chatgpt-1.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/scratch-logo.svg"> &nbsp; 
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/visual-studio-code-1.svg"> &nbsp;
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/node.svg"> &nbsp; 
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/git.svg"> &nbsp;      
 
   👨🏽‍💻Databases:
   
