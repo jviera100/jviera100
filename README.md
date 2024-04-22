@@ -5,7 +5,7 @@
     height="100px" 
     style="margin: 10px"
     src="./assets/img/johnny-bravo-1.svg"> &nbsp;
-    <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="100" height="100" />
+    <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="100" height="100" margin="10px"/>
     <img width="100px" 
     height="100px" 
     style="margin: 10px"
