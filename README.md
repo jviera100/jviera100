@@ -2,7 +2,7 @@
 
 <p align="center">  
     <img width="400px" 
-    height="100px" 
+    height="200px" 
     style="margin: 10px"
     src="./assets/img/heyArnold.jpeg"> &nbsp;
     <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="100" height="100" margin="10px"/>   
