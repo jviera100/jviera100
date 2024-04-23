@@ -5,7 +5,7 @@
     height="200px" 
     style="margin: 10px"
     src="./assets/img/heyArnold.jpeg"> &nbsp;
-    <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="100" height="100" margin="10px"/>   
+    <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" margin="10px"/>   
 </p>
 <p align="center">
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology.
