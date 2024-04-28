@@ -98,14 +98,18 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/microsoft-windows-11.svg"> &nbsp;        
+    src="./assets/img/microsoft-windows-11.svg"> &nbsp; 
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/img/jwtio-json-web-token.svg"> &nbsp;        
 
   👨🏽‍💻Databases:
   
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/img/beaver-head.png"> &nbsp; &nbsp;
+    src="./assets/img/dbeaver-head.png"> &nbsp; &nbsp;
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
