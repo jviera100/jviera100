@@ -10,7 +10,7 @@
     height="200px" 
     style="margin: 10px"
     src="./assets/img/saga.jpg"> &nbsp;
-    <img src="./assets/img/saga_perfil.jpg" alt="[Jonathan Viera]" width="200" height="200" margin="10px"/>   
+    <img src="https://github.com/jviera100.png" alt="[Jonathan Viera]" width="200" height="200" margin="10px"/>   
 </p>
 <p align="center">
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology.
