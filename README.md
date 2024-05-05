@@ -1,10 +1,6 @@
 <h1 align="center">¡Hi!, I am Jonathan Viera👋</h1>
 
-<p align="center">  
-    <img width="400px" 
-    height="200px" 
-    style="margin: 10px"
-    src="./assets/img/heyArnold.jpeg"> &nbsp;
+<p align="center">   
     <img width="400px" 
     height="200px" 
     style="margin: 10px"
