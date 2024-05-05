@@ -2,7 +2,7 @@
 
 <p align="center">   
     <img width="800px" 
-    height="300px" 
+    height="400px" 
     style="margin: 10px"
     src="./assets/img/slam_dunk.jpg"> &nbsp;   
 </p>
