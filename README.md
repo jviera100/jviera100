@@ -5,7 +5,7 @@
  # 📌 Index of contents.
 
 1. [ Development Languages and Tools: ](#tools)
-2. [Authors and look at my project](#Authors)
+2. [look at my project](#Authors)
 3. [Resume](#Resume)
 4. [Gratitude](#Gratitude)
 
@@ -126,7 +126,7 @@
     </div>
 </details>
 
-## Sección 2: Authors and look at my project ✒️ <a name="Authors"></a>
+## Sección 2: look at my project ✒️ <a name="Authors"></a>
 
 <details>
   <summary>Sección 2: Authors</summary> 
