@@ -156,6 +156,10 @@
       [Development Full Stack JavaScript](Enlace a la Certificación).
 
       [Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
+
+      [Google AI Fundamentals](Enlace a la Certificación): Certification from Google.
+
+      [Google Cybersecurity 2024](Enlace a la Certificación): Certification from Google.
   
 </details>
 
