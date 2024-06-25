@@ -23,6 +23,10 @@
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
+    src="./assets/img/python.svg"> &nbsp; &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
     src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
 
   👨🏽‍💻Libraries, Framekorks and Developer Tools:
