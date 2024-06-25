@@ -1,8 +1,116 @@
 <h1 align="center">¡Hi!, I am Jonathan Viera👋</h1>
 <p align="center">
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology.
-</p>   
-  <div>🛠️ Skills and Technologies</div>
+</p>  
+ # 📌 Index of contents.
+
+1. [Gratitude](#Gratitude)
+2. [Authors and look at my project in Render](#Authors)
+3. [ Development Languages and Tools: ](#tools)
+
+
+
+## Sección 8: Expressions of Gratitude 🎁 <a name="Gratitude"></a>
+
+<details>
+  <summary>Sección 8: Expressions of Gratitude </summary>  
+
+  I am grateful for the teaching of [Academia Latam](https://desafiolatam.com/). If you found any value in this project or want to contribute, here's what you can do:
+    - Share this project with others
+    - Invite me a tea ☕
+    - Show your appreciation by saying thank you.
+</details>
+
+## Sección 10: Authors and look at my project in Render ✒️ <a name="Authors"></a>
+
+<details>
+  <summary>Sección 10: Authors</summary> 
+  
+  - **Jonathan Viera L** - _Initial work_ - [look at my project in GitHub](https://github.com/jviera100/m8d35Hotel)
+  - **Jonathan Viera L** - _Initial work_ - [look at my project in Render](https://m8d35hotel.onrender.com)
+
+⌨️ with ❤️ by [Jonathan Viera L, See my profile on GitHub](https://github.com/jviera100) 😊 
+</details>
+
+## Sección 3: 👨🏽‍💻 Development Languages and Tools:  <a name="tools"></a>
+
+<details>
+  <summary>Sección 3:  👨🏽‍💻Development Languages and Tools: </summary>  
+    <div>
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/html.svg"> &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/css.svg"> &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/javascript.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/markdown.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/fontawesome-1.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/git.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/github-icon-1.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/node.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/npm-square-red-1.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/toptal-logo-wordmark.svg"> &nbsp; &nbsp;  
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/visual-studio-code-1.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/postgresql.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/dbeaver-head.png"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/gmail-icon.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/jwtio-json-web-token.svg"> &nbsp; &nbsp; 
+    </div>
+</details>
+
+
+#-------------------------------------------------------------
+
+
+
+
+  <div>🛠️ Skills and Technologies 📌</div>
 
   <br>        
 
@@ -144,6 +252,6 @@
 
 [Professional Driver](Enlace a la Certificación): A3 license.
 
-[Development Full Stack JavaScript](Enlace a la Certificación): Currently taking the course.
+[Development Full Stack JavaScript](Enlace a la Certificación).
 
 [Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
