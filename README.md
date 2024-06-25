@@ -15,7 +15,7 @@
 <details>
   <summary>Sección 8: Expressions of Gratitude </summary>  
 
-  I am grateful for the teaching of [Talento Digital Chile](https://talentodigitalparachile.cl/), [Academia Latam](https://desafiolatam.com/), [freeCodeCamp](https://freecodecamp.com/) y [Coursera](https://coursera.com/). If you found any value in this project or want to contribute, here's what you can do:
+  I am grateful for the teaching of [Talento Digital Chile](https://talentodigitalparachile.cl/), [Academia Latam](https://desafiolatam.com/), [freeCodeCamp](https://freecodecamp.org/) y [Coursera](https://coursera.org/). If you found any value in this project or want to contribute, here's what you can do:
     - Share this project with others
     - Invite me a tea ☕
     - Show your appreciation by saying thank you.
