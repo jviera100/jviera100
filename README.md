@@ -13,7 +13,7 @@
 ## Sección 1: 👨🏽‍💻 Development Languages and Tools:  <a name="tools"></a>
 
 <details>
-  <summary>Sección 1:  👨🏽‍💻Development Languages and Tools: </summary>  
+  <summary>Sección 1:  Development Languages and Tools: </summary>  
     <div>           
         <img width="70px" 
         height="70px" 
