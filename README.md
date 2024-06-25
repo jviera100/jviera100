@@ -4,38 +4,16 @@
 </p>  
  # 📌 Index of contents.
 
-1. [Gratitude](#Gratitude)
-2. [Authors and look at my project in Render](#Authors)
-3. [ Development Languages and Tools: ](#tools)
+1. [ Development Languages and Tools: ](#tools)
+2. [Authors and look at my project](#Authors)
+3. [Resume](#Resume)
+4. [Gratitude](#Gratitude)
 
 
-
-## Sección 8: Expressions of Gratitude 🎁 <a name="Gratitude"></a>
-
-<details>
-  <summary>Sección 8: Expressions of Gratitude </summary>  
-
-  I am grateful for the teaching of [Talento Digital Chile](https://talentodigitalparachile.cl/), [Academia Latam](https://desafiolatam.com/), [freeCodeCamp](https://freecodecamp.org/) y [Coursera](https://coursera.org/). If you found any value in this project or want to contribute, here's what you can do:
-    - Share this project with others
-    - Invite me a tea ☕
-    - Show your appreciation by saying thank you.
-</details>
-
-## Sección 10: Authors and look at my project in Render ✒️ <a name="Authors"></a>
+## Sección 1: 👨🏽‍💻 Development Languages and Tools:  <a name="tools"></a>
 
 <details>
-  <summary>Sección 10: Authors</summary> 
-  
-  - **Jonathan Viera L** - _Initial work_ - [look at my project in GitHub](https://github.com/jviera100/m8d35Hotel)
-  - **Jonathan Viera L** - _Initial work_ - [look at my project in Render](https://m8d35hotel.onrender.com)
-
-⌨️ with ❤️ by [Jonathan Viera L, See my profile on GitHub](https://github.com/jviera100) 😊 
-</details>
-
-## Sección 3: 👨🏽‍💻 Development Languages and Tools:  <a name="tools"></a>
-
-<details>
-  <summary>Sección 3:  👨🏽‍💻Development Languages and Tools: </summary>  
+  <summary>Sección 1:  👨🏽‍💻Development Languages and Tools: </summary>  
     <div>           
         <img width="70px" 
         height="70px" 
@@ -148,29 +126,46 @@
     </div>
 </details>
 
+## Sección 2: Authors and look at my project ✒️ <a name="Authors"></a>
 
-#-------------------------------------------------------------
-
-
-
-
-
-
+<details>
+  <summary>Sección 2: Authors</summary> 
   
-🚀 Featured projects.
+  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my FullStack project in GitHub](https://github.com/jviera100/m8d35Hotel)
+  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my FullStack project in Render](https://m8d35hotel.onrender.com)
+  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my database proyect in GitHub](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales): Sql Challenge in Powershell Terminal and pdAdmin Postgre.
+  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my javaScript proyect in GitHub](https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript): Final test integrating all learned content: HTML, CSS, Bootstrap, jQuery, JavaScript, APIs, AJAX, JSON, Canvas, videos, promises, dynamic tables, error handling, self-executing functions, callbacks, modules. Project includes registration table, modal window, PDF view, animations, form search, carousel, tooltips, social links.
 
-🚀[desafio-evaluado-17-base-de-datos-relacionales](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales): Sql Challenge in Powershell Terminal and pdAdmin Postgre.
+⌨️ with ❤️ by [Jonathan Viera L, See my profile on GitHub](https://github.com/jviera100) 😊 
 
-🚀[desafio-evaluado-16-prueba-programacion-avanzada-en-javascript](https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript): Final test integrating all learned content: HTML, CSS, Bootstrap, jQuery, JavaScript, APIs, AJAX, JSON, Canvas, videos, promises, dynamic tables, error handling, self-executing functions, callbacks, modules. Project includes registration table, modal window, PDF view, animations, form search, carousel, tooltips, social links.
+</details>
 
-🎓 Studies and Certifications
 
-[Audit](Enlace al Título o Institución): Title Accountant Auditor Duoc Uc
+## Sección 3: Resume 🎁 <a name="Resume"></a>
 
-[General accountant mention tax legislation](Enlace al Título o Institución): Title General Accountant with mention in tax legislation Duoc Uc
+<details>
+  <summary>Sección 3: Resume </summary>  
+    🎓 Studies and Certifications
 
-[Professional Driver](Enlace a la Certificación): A3 license.
+      [Audit](Enlace al Título o Institución): Title Accountant Auditor Duoc Uc
 
-[Development Full Stack JavaScript](Enlace a la Certificación).
+      [General accountant mention tax legislation](Enlace al Título o Institución): Title General Accountant with mention in tax legislation Duoc Uc
 
-[Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
+      [Professional Driver](Enlace a la Certificación): A3 license.
+
+      [Development Full Stack JavaScript](Enlace a la Certificación).
+
+      [Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
+  
+</details>
+
+## Sección 4: Expressions of Gratitude 🎁 <a name="Gratitude"></a>
+
+<details>
+  <summary>Sección 4: Expressions of Gratitude </summary>  
+
+  I am grateful for the teaching of [Talento Digital para Chile](https://talentodigitalparachile.cl/), [Academia Desafio Latam](https://desafiolatam.com/), [freeCodeCamp](https://freecodecamp.org/) y [Coursera](https://coursera.org/). If you found any value in this project or want to contribute, here's what you can do:
+    - Share this project with others
+    - Invite me a tea ☕
+    - Show your appreciation by saying thank you.
+</details>
