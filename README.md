@@ -186,7 +186,7 @@
   <a href="https://linkedin.com/in/jonathan-viera-46326567/" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="link" height="40" width="40" /></a>
   <a href="https://fb.com/jonathan.a.viera" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="jona" height="40" width="40" /></a>
   <a href="mailto:jony.alejandro.viera@gmail.com" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="40" width="40" /></a>
-  <a href="wa.me/568937670141" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" height="40" width="40" /></a>
+  <a href="wa.me/56937670141" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" height="40" width="40" /></a>
   
   </p>
   </div>
