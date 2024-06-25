@@ -1,11 +1,4 @@
 <h1 align="center">¡Hi!, I am Jonathan Viera👋</h1>
-
-<p align="center">   
-    <img width="80px" 
-    height="40px" 
-    style="margin: 10px"
-    src="./assets/img/slam_dunk.jpg"> &nbsp;   
-</p>
 <p align="center">
   ¡Welcome to my GitHub profile! I am a Full Stack JavaScript Development, passionate about technology.
 </p>   
