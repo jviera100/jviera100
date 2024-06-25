@@ -1,8 +1,8 @@
 <h1 align="center">¡Hi!, I am Jonathan Viera👋</h1>
 
 <p align="center">   
-    <img width="800px" 
-    height="400px" 
+    <img width="80px" 
+    height="40px" 
     style="margin: 10px"
     src="./assets/img/slam_dunk.jpg"> &nbsp;   
 </p>
