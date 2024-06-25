@@ -34,6 +34,10 @@
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
+    src="./assets/img/kali-1.svg"> &nbsp; &nbsp; 
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
     src="./assets/img/google-fonts-2021-2.svg"> &nbsp; &nbsp; 
     <img width="70px" 
     height="70px" 
