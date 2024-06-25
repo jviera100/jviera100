@@ -141,11 +141,11 @@
 </details>
 
 
-## Sección 3: Resume 🎁 <a name="Resume"></a>
+## Sección 3: Resume  🎓 <a name="Resume"></a>
 
 <details>
   <summary>Sección 3: Resume </summary>  
-    🎓 Studies and Certifications
+    Studies and Certifications
 
       [Audit](Enlace al Título o Institución): Title Accountant Auditor Duoc Uc
 
