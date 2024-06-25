@@ -36,7 +36,7 @@
 
 <details>
   <summary>Sección 3:  👨🏽‍💻Development Languages and Tools: </summary>  
-    <div>
+    <div>           
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
@@ -52,7 +52,63 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/markdown.svg"> &nbsp; &nbsp;
+        src="./assets/img/python.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/kali-1.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/google-fonts-2021-2.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/fontawesome-1.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/jquery-1.svg"> &nbsp; &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/draw-io.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/toptal-logo-wordmark.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/canva-1.svg"> &nbsp;   
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/chatgpt-1.svg"> &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/scratch-logo.svg"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/visual-studio-code-1.svg"> &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/node.svg"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/git.svg"> &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/npm-square-red-1.svg"> &nbsp;
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
@@ -60,47 +116,35 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/fontawesome-1.svg"> &nbsp; &nbsp;
+        src="./assets/img/office-2.svg"> &nbsp;
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/git.svg"> &nbsp; &nbsp;
+        src="./assets/img/logo-google-workspace.svg"> &nbsp;
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/github-icon-1.svg"> &nbsp; &nbsp; 
+        src="./assets/img/microsoft-windows-11.svg"> &nbsp; 
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/node.svg"> &nbsp; &nbsp; 
+        src="./assets/img/jwtio-json-web-token.svg"> &nbsp;   
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/npm-square-red-1.svg"> &nbsp; &nbsp; 
+        src="./assets/img/dbeaver-head.png"> &nbsp; &nbsp;
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/toptal-logo-wordmark.svg"> &nbsp; &nbsp;  
+        src="./assets/img/postgresql.svg"> &nbsp; &nbsp;    
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/visual-studio-code-1.svg"> &nbsp; &nbsp; 
+        src="./assets/img/github-icon-1.svg"> &nbsp; 
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/postgresql.svg"> &nbsp; &nbsp; 
-        <img width="70px" 
-        height="70px" 
-        style="margin: 10px"
-        src="./assets/img/dbeaver-head.png"> &nbsp; &nbsp; 
-        <img width="70px" 
-        height="70px" 
-        style="margin: 10px"
-        src="./assets/img/gmail-icon.svg"> &nbsp; &nbsp; 
-        <img width="70px" 
-        height="70px" 
-        style="margin: 10px"
-        src="./assets/img/jwtio-json-web-token.svg"> &nbsp; &nbsp; 
+        src="./assets/img/neon.svg"> &nbsp;
     </div>
 </details>
 
@@ -110,132 +154,7 @@
 
 
 
-  <div>🛠️ Skills and Technologies 📌</div>
 
-  <br>        
-
-  👨🏽‍💻Development Languages:
-   
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/html.svg"> &nbsp;
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/css.svg"> &nbsp;
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/javascript.svg"> &nbsp; &nbsp;
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/python.svg"> &nbsp; &nbsp;
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/markdown.svg"> &nbsp; &nbsp; 
-
-  👨🏽‍💻Libraries, Framekorks and Developer Tools:
-
-  <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/kali-1.svg"> &nbsp; &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/google-fonts-2021-2.svg"> &nbsp; &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/fontawesome-1.svg"> &nbsp; &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/jquery-1.svg"> &nbsp; &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/draw-io.svg"> &nbsp; &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/toptal-logo-wordmark.svg"> &nbsp; &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/canva-1.svg"> &nbsp;   
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/chatgpt-1.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/scratch-logo.svg"> &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/visual-studio-code-1.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/node.svg"> &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/git.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/npm-square-red-1.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/bootstrap-5-1.svg"> &nbsp; &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/office-2.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/logo-google-workspace.svg"> &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/microsoft-windows-11.svg"> &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/jwtio-json-web-token.svg"> &nbsp;        
-
-  👨🏽‍💻Databases:
-  
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/dbeaver-head.png"> &nbsp; &nbsp;
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/postgresql.svg"> &nbsp; &nbsp;  
-
-  📫Web Development Cloud Storage:
-  
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/github-icon-1.svg"> &nbsp; 
-    <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/img/neon.svg"> &nbsp;
- 
-=======
-  <br>  
 
   
 🚀 Featured projects.
