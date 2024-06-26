@@ -123,8 +123,11 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/neon.svg"> &nbsp;
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7e7c13ab-933b-422e-a681-e607913a7b21" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        src="./assets/img/neon.svg"> &nbsp;        
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/google-ai-essentials.png"> &nbsp;        
     </div>
 </details>
 
