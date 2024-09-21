@@ -75,7 +75,7 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/Spyder.png"> &nbsp; &nbsp;                 
+        src="./assets/img/icons8-spyder-ide-5.svg"> &nbsp; &nbsp;                 
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
