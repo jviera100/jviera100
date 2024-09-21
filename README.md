@@ -15,7 +15,15 @@
 
 <details>
   <summary>Sección 1:  Development Languages and Tools: </summary>  
-    <div>           
+    <div> 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/0_insignia-ciberseguridad-de-google.png"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/0_insignia_google-ai-essentials.png"> &nbsp;           
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
@@ -139,11 +147,7 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/neon.svg"> &nbsp;        
-        <img width="70px" 
-        height="70px" 
-        style="margin: 10px"
-        src="./assets/img/google-ai-essentials.png"> &nbsp;        
+        src="./assets/img/neon.svg"> &nbsp;               
     </div>
 </details>
 
