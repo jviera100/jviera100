@@ -180,10 +180,6 @@
         height="70px" 
         style="margin: 10px"
         src="./assets/img/chronicle_secops_dark_logo.svg"> &nbsp; &nbsp;                       
-        <img width="70px" 
-        height="70px" 
-        style="margin: 10px"
-        src="./assets/img/chronicle_secops_dark_logo.svg"> &nbsp; &nbsp;                       
     </div>
 </details>
 
