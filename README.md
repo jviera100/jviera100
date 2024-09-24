@@ -151,6 +151,10 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
+        src="./assets/img/xampp.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
         src="./assets/img/apache-13.svg"> &nbsp; &nbsp;
         <img width="70px" 
         height="70px" 
