@@ -127,7 +127,11 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/jwtio-json-web-token.svg"> &nbsp;   
+        src="./assets/img/jwtio-json-web-token.svg"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/postgresql.svg"> &nbsp; &nbsp;  
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
@@ -135,7 +139,7 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
-        src="./assets/img/postgresql.svg"> &nbsp; &nbsp;    
+        src="./assets/img/mariadb.svg"> &nbsp; &nbsp;    
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
@@ -144,6 +148,10 @@
         height="70px" 
         style="margin: 10px"
         src="./assets/img/neon.svg"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/apache-13.svg"> &nbsp; &nbsp;
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
