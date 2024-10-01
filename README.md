@@ -51,6 +51,10 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
+        src="./assets/img/composer.svg"> &nbsp; &nbsp;
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
         src="./assets/img/laravel-3.svg"> &nbsp; &nbsp;
         <img width="70px" 
         height="70px" 
