@@ -19,6 +19,10 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
+        src="./assets/img/0_insignia_introduction-to-cybersecurity.png"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
         src="./assets/img/0_insignia-ciberseguridad-de-google.png"> &nbsp; 
         <img width="70px" 
         height="70px" 
