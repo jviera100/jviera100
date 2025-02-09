@@ -31,6 +31,10 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
+        src="./assets/img/0_insignia_google_cloud.png"> &nbsp;           
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
         src="./assets/img/html.svg"> &nbsp;
         <img width="70px" 
         height="70px" 
