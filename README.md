@@ -5,7 +5,7 @@
  # 📌 Index of contents.
 
 1. [ Development Languages and Tools: ](#tools)
-2. [look at my project](#Authors)
+2. [look at my project](#MyProjects)
 3. [Resume](#Resume)
 4. [Gratitude](#Gratitude)
 5. [Contact](#Contact)
@@ -16,6 +16,10 @@
 <details>
   <summary>Sección 1:  Development Languages and Tools: </summary>  
     <div> 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/0_Badge_Network_Technician_Career_Path.png"> &nbsp; 
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
@@ -235,67 +239,74 @@
     </div>
 </details>
 
-## Sección 2: look at my project ✒️ <a name="Authors"></a>
+## Sección 2: Mis Proyectos Destacados ✒️ <a name="MyProjects"></a>
 
 <details>
-  <summary>Sección 2: Authors</summary> 
-  
-  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my FullStack project in GitHub](https://github.com/jviera100/m8d35Hotel)
-  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my FullStack project in Render](https://m8d35hotel.onrender.com)
-  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my database proyect in GitHub](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales): Sql Challenge in Powershell Terminal and pdAdmin Postgre.
-  - **Jonathan Viera L** - _Initial work_ - 🚀[look at my javaScript proyect in GitHub](https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript): Final test integrating all learned content: HTML, CSS, Bootstrap, jQuery, JavaScript, APIs, AJAX, JSON, Canvas, videos, promises, dynamic tables, error handling, self-executing functions, callbacks, modules. Project includes registration table, modal window, PDF view, animations, form search, carousel, tooltips, social links.
+  <summary>Sección 2: Proyectos Destacados (por Jonathan Viera L)</summary>
 
-⌨️ with ❤️ by [Jonathan Viera L, See my profile on GitHub](https://github.com/jviera100) 😊 
+  - **🌟 Documentación Multidisciplinaria en GitHub** - 🚀 [Explora mi Guía Completa](https://github.com/jviera100/documentacion)
+    - _Mi proyecto más destacado y al que más tiempo he dedicado._ Un compendio exhaustivo y proyecto personal que compila guías, apuntes y recursos sobre un espectro increíblemente amplio de tecnologías. Abarca desde **desarrollo web FullStack** (HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express, React, PHP, Laravel, Vite, Babel, JSON), **bases de datos y SQL**, hasta **sistemas operativos** (Linux, Terminal), **control de versiones** (Git), y **Python** para diversas aplicaciones.
+    - Profundiza en **análisis y ciencia de datos** (Python Data Analyst, Data Science, Power BI), **plataformas cloud** (Azure, Google Cloud), **virtualización** (VirtualBox), **networking y ciberseguridad** (Cisco, Wireshark, tcpdump, Suricata, Splunk, Chronicle), e incluso **desarrollo de juegos** con Phaser y **herramientas de IA para el empleo**.
+    - El objetivo es proporcionar un recurso práctico y centralizado para el aprendizaje y la aplicación de estas tecnologías, demostrando mi pasión por la documentación clara, el aprendizaje continuo y la exploración de la diversidad del panorama tecnológico.
+  - **FullStack Hotel Project** - _Trabajo inicial_ - 🚀 [Ver en GitHub (Repositorio Privado)](https://github.com/jviera100/m8d35Hotel)
+    - *Nota: Este es un repositorio privado. Por favor, contáctame para solicitar acceso o para que te comparta la carpeta del proyecto.*
+  - **Desafío Base de Datos Relacionales** - _Trabajo inicial_ - 🚀 [Ver proyecto de base de datos en GitHub](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales)
+    - Desafío SQL ejecutado en Terminal Powershell y pgAdmin PostgreSQL.
+  - **Prueba Programación Avanzada en JavaScript** - _Trabajo inicial_ - 🚀 [Ver proyecto de JavaScript en GitHub](https://github.com/jviera100/desafio-evaluado-16-prueba-programacion-avanzada-en-javascript)
+    - Prueba final integrando HTML, CSS, Bootstrap, jQuery, JavaScript, APIs, AJAX, JSON, Canvas, videos, promesas, tablas dinámicas, manejo de errores, funciones autoejecutables, callbacks, módulos. Incluye tabla de registro, ventana modal, vista PDF, animaciones, búsqueda en formulario, carrusel, tooltips, enlaces sociales.
+
+⌨️ con ❤️ por [Jonathan Viera L, Mira mi perfil en GitHub](https://github.com/jviera100) 😊
 
 </details>
 
-
-## Sección 3: Resume  🎓 <a name="Resume"></a>
+## Sección 3: Resumen Profesional y Enfoque Actual 🎓 <a name="Resume"></a>
 
 <details>
-  <summary>Sección 3: Resume </summary>  
-    Studies and Certifications
+  <summary>Sección 3: Resumen Profesional y Enfoque Actual</summary>
 
-      [Audit](Enlace al Título o Institución): Title Accountant Auditor Duoc Uc
+  Partiendo de una base en Desarrollo Full Stack JavaScript y con certificaciones como Google Cybersecurity, mi enfoque profesional actual se ha consolidado firmemente en el **desarrollo activo de competencias en ciberseguridad**.
 
-      [General accountant mention tax legislation](Enlace al Título o Institución): Title General Accountant with mention in tax legislation Duoc Uc
+  Estoy invirtiendo significativamente en mi preparación para certificaciones clave de la industria (como la ruta de Cisco hacia Técnico en Redes y Analista de Ciberseguridad Junior) y en la ejecución de proyectos prácticos. Esto incluye mi experiencia en la implementación y configuración de entornos virtualizados (Kali Linux, Ubuntu en VirtualBox) para realizar pruebas de seguridad, análisis básico de vulnerabilidades y la familiarización con herramientas de diagnóstico de red (ej. Wireshark, Packet Tracer).
 
-      [Professional Driver](Enlace a la Certificación): A3 license.
+  Mi objetivo es la adquisición continua de conocimiento teórico y práctico en ciberseguridad, con la meta de aplicar y expandir estas habilidades fundamentales en un rol inicial, aportando una sólida base técnica y una mentalidad de aprendizaje constante.
 
-      [Development Full Stack JavaScript](Enlace a la Certificación).
-
-      [Basic English](Enlace a la Certificación): studying with total immersion in different applications and conversation groups.
-
-      [Google AI Fundamentals](Enlace a la Certificación): Certification from Google.
-
-      [Google Cybersecurity 2024](Enlace a la Certificación): Certification from Google.
-  
 </details>
 
-## Sección 4: Expressions of Gratitude 🎁 <a name="Gratitude"></a>
+## Sección 4: Expresiones de Gratitud 🎁 <a name="Gratitude"></a>
 
 <details>
-  <summary>Sección 4: Expressions of Gratitude </summary>  
+  <summary>Sección 4: Expresiones de Gratitud</summary>
 
-  I am grateful for the teaching of [Talento Digital para Chile](https://talentodigitalparachile.cl/), [Academia Desafio Latam](https://desafiolatam.com/), [freeCodeCamp](https://freecodecamp.org/) y [Coursera](https://coursera.org/). If you found any value in this project or want to contribute, here's what you can do:
-    - Share this project with others
-    - Invite me a tea ☕
-    - Show your appreciation by saying thank you.
+  Estoy profundamente agradecido por la enseñanza, los recursos y las oportunidades de aprendizaje proporcionadas por:
+  - [Academia Desafío Latam](https://desafiolatam.com/)
+  - [Cisco Networking Academy (NetAcad)](https://www.netacad.com/)
+  - [Coursera](https://coursera.org/)
+  - [freeCodeCamp](https://freecodecamp.org/)
+  - [Jóvenes Programadores (BiblioRedes)](https://www.jovenesprogramadores.cl/)
+  - [Microsoft Learn](https://learn.microsoft.com/)
+  - [Santander Open Academy](https://sso.santanderopenacademy.com/)
+  - [Talento Digital para Chile](https://talentodigitalparachile.cl/)
+
+  Si encontraste algún valor en mis proyectos o quieres contribuir de alguna manera, aquí tienes algunas ideas:
+    - Comparte mis proyectos con otros.
+    - Invítame un té ☕ o un café ☕.
+    - Muestra tu aprecio con un simple "gracias".
+
 </details>
 
 ## Sección 5: Connect with me: 📧 <a name="Contact"></a>
 
 <details>
-  <summary>Sección 5: Connect with me: </summary>  
-    
+  <summary>Sección 5: Connect with me: </summary>
+
   <div align="center">
   <h4 >Connect with me:</h4>
   <p >
-  <a href="https://linkedin.com/in/jonathan-viera-46326567/" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="link" height="40" width="40" /></a>
-  <a href="https://fb.com/jonathan.a.viera" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="jona" height="40" width="40" /></a>
-  <a href="mailto:jony.alejandro.viera@gmail.com" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="40" width="40" /></a>
-  <a href="wa.me/56937670141" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" height="40" width="40" /></a>
-  
+  <a href="https://www.linkedin.com/in/jonathan-viera-ladr%C3%B3n-de-guevara-46326567/" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Jonathan Viera" height="40" width="40" /></a>
+  <a href="https://fb.com/jonathan.a.viera" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook Jonathan Viera" height="40" width="40" /></a>
+  <a href="mailto:jony.alejandro.viera@gmail.com" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email Jonathan Viera" height="40" width="40" /></a>
+  <a href="https://wa.me/56937670141" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp Jonathan Viera" height="40" width="40" /></a>
+
   </p>
   </div>
 </details>
