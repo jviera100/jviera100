@@ -19,6 +19,10 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
+        src="./assets/img/0_Badge_networking-academy-learn-a-thon-2025.png"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
         src="./assets/img/0_Badge_Network_Technician_Career_Path.png"> &nbsp; 
         <img width="70px" 
         height="70px" 
@@ -60,6 +64,10 @@
         height="70px" 
         style="margin: 10px"
         src="./assets/img/microsoft-windows-11.svg"> &nbsp;              
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
+        src="./assets/img/docker-4.svg"> &nbsp;              
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
