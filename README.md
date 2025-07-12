@@ -19,6 +19,10 @@
         <img width="70px" 
         height="70px" 
         style="margin: 10px"
+        src="./assets/img/0_badge_fundamentos-de-ciberseguridad-industrial-essentials.png"> &nbsp; 
+        <img width="70px" 
+        height="70px" 
+        style="margin: 10px"
         src="./assets/img/0_Badge_networking-academy-learn-a-thon-2025.png"> &nbsp; 
         <img width="70px" 
         height="70px" 
@@ -256,7 +260,7 @@
     - _Mi proyecto más destacado y al que más tiempo he dedicado._ Un compendio exhaustivo y proyecto personal que compila guías, apuntes y recursos sobre un espectro increíblemente amplio de tecnologías. Abarca desde **desarrollo web FullStack** (HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express, React, PHP, Laravel, Vite, Babel, JSON), **bases de datos y SQL**, hasta **sistemas operativos** (Linux, Terminal), **control de versiones** (Git), y **Python** para diversas aplicaciones.
     - Profundiza en **análisis y ciencia de datos** (Python Data Analyst, Data Science, Power BI), **plataformas cloud** (Azure, Google Cloud), **virtualización** (VirtualBox), **networking y ciberseguridad** (Cisco, Wireshark, tcpdump, Suricata, Splunk, Chronicle), e incluso **desarrollo de juegos** con Phaser y **herramientas de IA para el empleo**.
     - El objetivo es proporcionar un recurso práctico y centralizado para el aprendizaje y la aplicación de estas tecnologías, demostrando mi pasión por la documentación clara, el aprendizaje continuo y la exploración de la diversidad del panorama tecnológico.
-  - **FullStack Hotel Project** - _Trabajo inicial_ - 🚀 [Ver en GitHub (Repositorio Privado)](https://github.com/jviera100/m8d35Hotel)
+  - **FullStack Hotel Project** - _Trabajo inicial_ - 🚀 [Ver en GitHub (Repositorio Privado)](https://github.com/jviera100/hotel-app)
     - *Nota: Este es un repositorio privado. Por favor, contáctame para solicitar acceso o para que te comparta la carpeta del proyecto.*
   - **Desafío Base de Datos Relacionales** - _Trabajo inicial_ - 🚀 [Ver proyecto de base de datos en GitHub](https://github.com/jviera100/desafio-evaluado-17-base-de-datos-relacionales)
     - Desafío SQL ejecutado en Terminal Powershell y pgAdmin PostgreSQL.
@@ -286,14 +290,17 @@
   <summary>Sección 4: Expresiones de Gratitud</summary>
 
   Estoy profundamente agradecido por la enseñanza, los recursos y las oportunidades de aprendizaje proporcionadas por:
+  - [SENCE](https://sence.gob.cl/)
+  - [Talento Digital para Chile](https://talentodigitalparachile.cl/)
   - [Academia Desafío Latam](https://desafiolatam.com/)
-  - [Cisco Networking Academy (NetAcad)](https://www.netacad.com/)
   - [Coursera](https://coursera.org/)
-  - [freeCodeCamp](https://freecodecamp.org/)
+  - [Sustantiva](https://www.sustantiva.cl/) 
   - [Jóvenes Programadores (BiblioRedes)](https://www.jovenesprogramadores.cl/)
+  - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/quests)
   - [Microsoft Learn](https://learn.microsoft.com/)
   - [Santander Open Academy](https://sso.santanderopenacademy.com/)
-  - [Talento Digital para Chile](https://talentodigitalparachile.cl/)
+  - [Cisco Networking Academy (NetAcad)](https://www.netacad.com/)
+  - [Universidad Mayor](https://www.umayor.cl/)
 
   Si encontraste algún valor en mis proyectos o quieres contribuir de alguna manera, aquí tienes algunas ideas:
     - Comparte mis proyectos con otros.
